@@ -6,7 +6,15 @@
 
 #### STACK
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
-<img  alt="Java" src ="https://img.shields.io/badge/Java-607078.svg?&style=flat-square&logo=Java&logoColor=white"/> 
-<img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img  alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> 
+
+#### SNS
+
+<a href="https://www.instagram.com/hsw_pinkippo/">
+    <img 
+        src="http://img.shields.io/badge/222222?style=flat&logo=Instagram&link=https://www.instagram.com/hsw_pinkippo/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkippo&layout=compact&theme=transparent&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
