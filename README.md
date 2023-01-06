@@ -11,7 +11,6 @@
 
 ### SNS
 
-<a href ="https://github.com/Pinkippo" ><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://instagram.com/hsw_pinkippo">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hsw_pinkippo/"
