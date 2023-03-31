@@ -23,4 +23,4 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
-github-readme-stats.vercel.app/api?username={Pinkippo}&show_icons=true&theme=dark
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinkippo)](https://github.com/anuraghazra/github-readme-stats)
