@@ -1,8 +1,10 @@
 ## PINKIPPO
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPinkippo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href = "https://github.com/Pinkippo"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <a href="mailto:hseungwan8@gmail.com"><img src="https://img.shields.io/badge/hseungwan8@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:su2490gmin@mail.com"/> </a>
+
+- - -
 
 ### IMPORTANT STACK LIST
 
@@ -18,6 +20,8 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
 
+- - -
+
 ### INSTARGRAM
 
 <a href="https://instagram.com/shyboipinkippo">
@@ -26,7 +30,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 
-<p></p>
-<p></p>
+- - -
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinkippo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
