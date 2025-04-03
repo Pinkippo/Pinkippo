@@ -1,6 +1,5 @@
 ## PINKIPPO
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPinkippo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href = "https://github.com/Pinkippo"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/></a> 
 <a href="mailto:hseungwan8@gmail.com"><img src="https://img.shields.io/badge/hseungwan8@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:su2490gmin@mail.com"/> </a>
 
